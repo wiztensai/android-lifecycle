@@ -1,3 +1,5 @@
+_Added A2 for-print edition, other belongs to @xxv_
+
 Complete Android Fragment & Activity Lifecycle
 ----------------------------------------------
 
