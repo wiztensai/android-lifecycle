@@ -1,0 +1,2778 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="420mm"
+   height="594mm"
+   viewBox="-14.463 -12.25 30.152145 53.0877"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="complete_android_fragment_lifecycle 4print A2.svg"
+   inkscape:export-filename="/home/steve/work/levelup/android/lifecycle/complete_android_fragment_lifecycle.png"
+   inkscape:export-xdpi="50.02"
+   inkscape:export-ydpi="50.02">
+  <metadata
+     id="metadata830">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs828" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview826"
+     showgrid="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="1194.7386"
+     inkscape:cy="1662.4454"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="mm">
+    <sodipodi:guide
+       position="34.839363,92.08407"
+       orientation="1,0"
+       id="guide3804" />
+    <sodipodi:guide
+       position="12.726109,48.225342"
+       orientation="0,1"
+       id="guide3844" />
+    <sodipodi:guide
+       position="14.285563,1.8326168"
+       orientation="0,1"
+       id="guide3846" />
+  </sodipodi:namedview>
+  <rect
+     x="-5.1508646"
+     y="20.229527"
+     width="4.857666"
+     height="3.0912421"
+     id="rect4"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803;stroke-dasharray:0.0441606, 0.0441606" />
+  <rect
+     x="-5.1508646"
+     y="4.5525107"
+     width="4.857666"
+     height="3.7536511"
+     id="rect6"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803;stroke-dasharray:0.0441606, 0.0441606" />
+  <rect
+     x="-4.7092581"
+     y="-3.3963974"
+     width="3.9744539"
+     height="0.89557707"
+     id="rect8"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="-4.7092581"
+     y="-3.3963974"
+     width="3.9744539"
+     height="0.89557707"
+     id="rect10"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-2.7220314"
+     y="-2.8624961"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text12"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onAttach()</text>
+  <path
+     d="m -5.8870271,-7.3708515 2.3555289,0 c 0.3250223,0 0.5886608,0.2967592 0.5886608,0.6624091 0,0.3656501 -0.2636385,0.6624094 -0.5886608,0.6624094 l -2.3555289,0 c -0.3250218,0 -0.5886603,-0.2967593 -0.5886603,-0.6624094 0,-0.3656499 0.2636385,-0.6624091 0.5886603,-0.6624091"
+     id="path14"
+     inkscape:connector-curvature="0"
+     style="fill:#bfbee8;stroke:none" />
+  <path
+     d="m -5.8870271,-7.3708515 2.3555289,0 c 0.3250223,0 0.5886608,0.2967592 0.5886608,0.6624091 0,0.3656501 -0.2636385,0.6624094 -0.5886608,0.6624094 l -2.3555289,0 c -0.3250218,0 -0.5886603,-0.2967593 -0.5886603,-0.6624094 0,-0.3656499 0.2636385,-0.6624091 0.5886603,-0.6624091"
+     id="path16"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-4.7092581"
+     y="-6.9734073"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text18"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">Fragment is</text>
+  <text
+     x="-4.7092581"
+     y="-6.620121"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text20"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">added to</text>
+  <text
+     x="-4.7092581"
+     y="-6.2668366"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text22"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">existing activity</text>
+  <rect
+     x="-4.7092581"
+     y="-1.6299734"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect24"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="-4.7092581"
+     y="-1.6299734"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect26"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803;stroke-dasharray:0.0441606, 0.0441606" />
+  <text
+     x="-2.7220314"
+     y="-1.1022543"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text28"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onCreate()</text>
+  <rect
+     x="-4.7092581"
+     y="0.13645065"
+     width="3.9744539"
+     height="0.89425224"
+     id="rect30"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="-4.7092581"
+     y="0.13645065"
+     width="3.9744539"
+     height="0.89425224"
+     id="rect32"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-2.7220314"
+     y="0.66946942"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text34"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onCreateView()</text>
+  <rect
+     x="-4.7092581"
+     y="5.4357228"
+     width="3.9744539"
+     height="0.89248574"
+     id="rect36"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="-4.7092581"
+     y="5.4357228"
+     width="3.9744539"
+     height="0.89248574"
+     id="rect38"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-2.7220314"
+     y="5.9683003"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text40"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onActivityCreated()</text>
+  <rect
+     x="-4.7092581"
+     y="10.734996"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect42"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="-4.7092581"
+     y="10.734996"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect44"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-2.7220314"
+     y="11.262714"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text46"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onStart()</text>
+  <rect
+     x="-4.7092581"
+     y="16.034269"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect48"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="-4.7092581"
+     y="16.034269"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect50"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-2.7220314"
+     y="16.561989"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text52"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onResume()</text>
+  <path
+     d="m -3.7523013,23.983176 2.0605338,0 c 0.2848359,0 0.5153541,0.211088 0.5153541,0.471194 0,0.260106 -0.2305182,0.470752 -0.5153541,0.470752 l -2.0605338,0 c -0.2848364,0 -0.5153553,-0.210646 -0.5153553,-0.470752 0,-0.260106 0.2305189,-0.471194 0.5153553,-0.471194"
+     id="path54"
+     inkscape:connector-curvature="0"
+     style="fill:#89f689;stroke:none" />
+  <path
+     d="m -3.7523013,23.983176 2.0605338,0 c 0.2848359,0 0.5153541,0.211088 0.5153541,0.471194 0,0.260106 -0.2305182,0.470752 -0.5153541,0.470752 l -2.0605338,0 c -0.2848364,0 -0.5153553,-0.210646 -0.5153553,-0.470752 0,-0.260106 0.2305189,-0.471194 0.5153553,-0.471194"
+     id="path56"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-2.7220314"
+     y="24.366049"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text58"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">Fragment is</text>
+  <text
+     x="-2.7220314"
+     y="24.719336"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text60"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">active</text>
+  <rect
+     x="-4.7092581"
+     y="27.074421"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect62"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="-4.7092581"
+     y="27.074421"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect64"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-2.7220314"
+     y="27.60214"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text66"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onPause()</text>
+  <rect
+     x="-4.7092581"
+     y="31.048874"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect68"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="-4.7092581"
+     y="31.048874"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect70"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-2.7220314"
+     y="31.576591"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text72"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onStop()</text>
+  <rect
+     x="-4.7092581"
+     y="32.8153"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect74"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="-4.7092581"
+     y="32.8153"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect76"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-2.7220314"
+     y="33.343018"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text78"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onDestroyView()</text>
+  <rect
+     x="-4.7092581"
+     y="34.581722"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect80"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="-4.7092581"
+     y="34.581722"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect82"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803;stroke-dasharray:0.0441606, 0.0441606" />
+  <text
+     x="-2.7220314"
+     y="35.10944"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text84"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onDestroy()</text>
+  <rect
+     x="-4.7092581"
+     y="36.348148"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect86"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="-4.7092581"
+     y="36.348148"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect88"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-2.7220314"
+     y="36.875866"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text90"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onDetach()</text>
+  <path
+     d="m -4.0614257,38.114569 2.6801072,0 c 0.3696242,0 0.6699163,0.197839 0.6699163,0.441605 0,0.243767 -0.3002921,0.441607 -0.6699163,0.441607 l -2.6801072,0 c -0.3700667,0 -0.669917,-0.19784 -0.669917,-0.441607 0,-0.243766 0.2998503,-0.441605 0.669917,-0.441605"
+     id="path92"
+     inkscape:connector-curvature="0"
+     style="fill:#ff9393;stroke:none" />
+  <path
+     d="m -4.0614257,38.114569 2.6801072,0 c 0.3696242,0 0.6699163,0.197839 0.6699163,0.441605 0,0.243767 -0.3002921,0.441607 -0.6699163,0.441607 l -2.6801072,0 c -0.3700667,0 -0.669917,-0.19784 -0.669917,-0.441607 0,-0.243766 0.2998503,-0.441605 0.669917,-0.441605"
+     id="path94"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-2.7215896"
+     y="38.467857"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text96"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">Fragment is</text>
+  <text
+     x="-2.7215896"
+     y="38.821136"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text98"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">destroyed</text>
+  <path
+     d="m 3.3867017,-7.3665717 2.3555263,0 c 0.3250222,0 0.588661,0.1978395 0.588661,0.441606 0,0.2437665 -0.2636388,0.441606 -0.588661,0.441606 l -2.3555263,0 c -0.3250221,0 -0.5886609,-0.1978395 -0.5886609,-0.441606 0,-0.2437665 0.2636388,-0.441606 0.5886609,-0.441606"
+     id="path100"
+     inkscape:connector-curvature="0"
+     style="fill:#bfbee8;stroke:none" />
+  <path
+     d="m 3.3867017,-7.3665717 2.3555263,0 c 0.3250222,0 0.588661,0.1978395 0.588661,0.441606 0,0.2437665 -0.2636388,0.441606 -0.588661,0.441606 l -2.3555263,0 c -0.3250221,0 -0.5886609,-0.1978395 -0.5886609,-0.441606 0,-0.2437665 0.2636388,-0.441606 0.5886609,-0.441606"
+     id="path102"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="4.564465"
+     y="-7.0132875"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text104"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">Activity is</text>
+  <text
+     x="4.564465"
+     y="-6.6600013"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text106"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">launched</text>
+  <rect
+     x="2.7980416"
+     y="-5.1461334"
+     width="3.5328481"
+     height="0.90970838"
+     id="rect108"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="2.7980416"
+     y="-5.1461334"
+     width="3.5328481"
+     height="0.90970838"
+     id="rect110"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="4.564465"
+     y="-4.6051655"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text112"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onCreate()</text>
+  <rect
+     x="2.7980416"
+     y="15.151056"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect114"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="2.7980416"
+     y="15.151056"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect116"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="4.564465"
+     y="15.678774"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text118"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onResume()</text>
+  <rect
+     x="2.7980416"
+     y="26.191208"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect120"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="2.7980416"
+     y="26.191208"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect122"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="4.564465"
+     y="26.718929"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text124"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onPause()</text>
+  <rect
+     x="2.7980416"
+     y="30.165663"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect126"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="2.7980416"
+     y="30.165663"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect128"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="4.564465"
+     y="30.693382"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text130"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onStop()</text>
+  <rect
+     x="2.7980416"
+     y="8.0853605"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect132"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="2.7980416"
+     y="8.0853605"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect134"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="4.564465"
+     y="8.6130781"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text136"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onStart()</text>
+  <rect
+     x="-4.7092581"
+     y="1.9028747"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect138"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="-4.7092581"
+     y="1.9028747"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect140"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-2.7220314"
+     y="2.4305937"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text142"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onViewCreated()</text>
+  <path
+     d="m 3.6812529,23.983176 1.766424,0 c 0.2437665,0 0.4416061,0.211088 0.4416061,0.471194 0,0.260106 -0.1978396,0.470752 -0.4416061,0.470752 l -1.766424,0 c -0.2437664,0 -0.441606,-0.210646 -0.441606,-0.470752 0,-0.260106 0.1978396,-0.471194 0.441606,-0.471194"
+     id="path144"
+     inkscape:connector-curvature="0"
+     style="fill:#89f689;stroke:none" />
+  <path
+     d="m 3.6812529,23.983176 1.766424,0 c 0.2437665,0 0.4416061,0.211088 0.4416061,0.471194 0,0.260106 -0.1978396,0.470752 -0.4416061,0.470752 l -1.766424,0 c -0.2437664,0 -0.441606,-0.210646 -0.441606,-0.470752 0,-0.260106 0.1978396,-0.471194 0.441606,-0.471194"
+     id="path146"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="4.564465"
+     y="24.366049"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text148"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">Activity is</text>
+  <text
+     x="4.564465"
+     y="24.719336"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text150"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">running</text>
+  <rect
+     x="2.7980416"
+     y="33.698509"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect152"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="2.7980416"
+     y="33.698509"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect154"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="4.564465"
+     y="34.226231"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text156"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onDestroy()</text>
+  <path
+     d="m 3.3867017,38.10216 2.3555263,0 c 0.3250222,0 0.588661,0.19784 0.588661,0.441607 0,0.243765 -0.2636388,0.441605 -0.588661,0.441605 l -2.3555263,0 c -0.3250221,0 -0.5886609,-0.19784 -0.5886609,-0.441605 0,-0.243767 0.2636388,-0.441607 0.5886609,-0.441607"
+     id="path158"
+     inkscape:connector-curvature="0"
+     style="fill:#ff9393;stroke:none" />
+  <path
+     d="m 3.3867017,38.10216 2.3555263,0 c 0.3250222,0 0.588661,0.19784 0.588661,0.441607 0,0.243765 -0.2636388,0.441605 -0.588661,0.441605 l -2.3555263,0 c -0.3250221,0 -0.5886609,-0.19784 -0.5886609,-0.441605 0,-0.243767 0.2636388,-0.441607 0.5886609,-0.441607"
+     id="path160"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="4.564465"
+     y="38.455452"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text162"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">Activity is</text>
+  <text
+     x="4.564465"
+     y="38.808735"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text164"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">shut down</text>
+  <rect
+     x="7.2141004"
+     y="7.202147"
+     width="3.0912421"
+     height="0.88321203"
+     id="rect166"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="7.2141004"
+     y="7.202147"
+     width="3.0912421"
+     height="0.88321203"
+     id="rect168"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="8.7597218"
+     y="7.7298665"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text170"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onRestart()</text>
+  <polyline
+     points="26.000,31.000 22.000,31.000 22.000,31.569 "
+     id="polyline172"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="21.75,31.444 22,31.569 22.25,31.444 22,31.944 "
+     id="polygon174"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="21.75,31.444 22,31.569 22.25,31.444 22,31.944 "
+     id="polygon176"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polyline
+     points="23.000,69.067 25.000,69.067 25.000,62.000 31.000,62.000 31.000,62.545 "
+     id="polyline178"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="30.75,62.42 31,62.545 31.25,62.42 31,62.92 "
+     id="polygon180"
+     style="fill:#bfbfbf;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="30.75,62.42 31,62.545 31.25,62.42 31,62.92 "
+     id="polygon182"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="4.564465"
+     y1="27.08502"
+     x2="4.564465"
+     y2="29.964731"
+     id="line184"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="19.75,81.42 20,81.545 20.25,81.42 20,81.92 "
+     id="polygon186"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="19.75,81.42 20,81.545 20.25,81.42 20,81.92 "
+     id="polygon188"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="4.564465"
+     y1="31.059475"
+     x2="4.564465"
+     y2="33.497578"
+     id="line190"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="19.75,89.42 20,89.545 20.25,89.42 20,89.92 "
+     id="polygon192"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="19.75,89.42 20,89.545 20.25,89.42 20,89.92 "
+     id="polygon194"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="4.564465"
+     y1="34.591881"
+     x2="4.564465"
+     y2="38.020691"
+     id="line196"
+     style="stroke:#000000;stroke-width:0.02107478" />
+  <polygon
+     points="20,100.546 20.25,100.421 20,100.921 19.75,100.421 "
+     id="polygon198"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.5000488)" />
+  <polygon
+     points="20,100.546 20.25,100.421 20,100.921 19.75,100.421 "
+     id="polygon200"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.5000488)" />
+  <line
+     x1="4.564465"
+     y1="-6.4727612"
+     x2="4.564465"
+     y2="-5.2546887"
+     id="line202"
+     style="stroke:#000000;stroke-width:0.02974415" />
+  <polygon
+     points="20.25,-0.581 20,-0.081 19.75,-0.581 20,-0.456 "
+     id="polygon204"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-5.1461314)" />
+  <polygon
+     points="19.75,-0.581 20,-0.456 20.25,-0.581 20,-0.081 "
+     id="polygon206"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-5.1461314)" />
+  <line
+     x1="4.564465"
+     y1="3.6790137"
+     x2="4.564465"
+     y2="7.8853121"
+     id="line208"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="19.75,31.422 20,31.547 20.25,31.422 20,31.922 "
+     id="polygon210"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="19.75,31.422 20,31.547 20.25,31.422 20,31.922 "
+     id="polygon212"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="4.564465"
+     y1="8.9685726"
+     x2="4.564465"
+     y2="13.194301"
+     id="line214"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="19.75,43.444 20,43.569 20.25,43.444 20,43.944 "
+     id="polygon216"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="19.75,43.444 20,43.569 20.25,43.444 20,43.944 "
+     id="polygon218"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="4.564465"
+     y1="16.045309"
+     x2="4.564465"
+     y2="23.782688"
+     id="line220"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="19.75,67.421 20,67.546 20.25,67.421 20,67.921 "
+     id="polygon222"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="19.75,67.421 20,67.546 20.25,67.421 20,67.921 "
+     id="polygon224"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polyline
+     points="31.000,71.024 31.000,72.000 20.000,72.000 20.000,72.545 "
+     id="polyline226"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.05;stroke-dasharray:0.1, 0.1"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="19.75,72.42 20,72.545 20.25,72.42 20,72.92 "
+     id="polygon228"
+     style="fill:#bfbfbf;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="19.75,72.42 20,72.545 20.25,72.42 20,72.92 "
+     id="polygon230"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polyline
+     points="31.000,65.024 31.000,66.000 22.000,66.000 22.000,67.569 "
+     id="polyline232"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="21.75,67.444 22,67.569 22.25,67.444 22,67.944 "
+     id="polygon234"
+     style="fill:#bfbfbf;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="21.75,67.444 22,67.569 22.25,67.444 22,67.944 "
+     id="polygon236"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="4.564465"
+     y1="24.936165"
+     x2="4.564465"
+     y2="25.989838"
+     id="line238"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="19.75,72.419 20,72.544 20.25,72.419 20,72.919 "
+     id="polygon240"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="19.75,72.419 20,72.544 20.25,72.419 20,72.919 "
+     id="polygon242"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <rect
+     x="-4.7092581"
+     y="7.202147"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect244"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="-4.7092581"
+     y="7.202147"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect246"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-2.7220314"
+     y="7.7298665"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text248"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onViewStateRestored()</text>
+  <rect
+     x="-2.059623"
+     y="-5.1628213"
+     width="2.649636"
+     height="0.88321203"
+     id="rect250"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="-2.059623"
+     y="-5.1628213"
+     width="2.649636"
+     height="0.88321203"
+     id="rect252"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803" />
+  <text
+     x="-0.73480606"
+     y="-4.6351027"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text254"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onInflate()</text>
+  <path
+     d="m -1.9125706,-7.3708515 2.3555265,0 c 0.32502205,0 0.5886609,0.2967592 0.5886609,0.6624091 0,0.3656501 -0.26363885,0.6624094 -0.5886609,0.6624094 l -2.3555265,0 c -0.3250222,0 -0.588661,-0.2967593 -0.588661,-0.6624094 0,-0.3656499 0.2636388,-0.6624091 0.588661,-0.6624091"
+     id="path256"
+     inkscape:connector-curvature="0"
+     style="fill:#bfbee8;stroke:none" />
+  <path
+     d="m -1.9125706,-7.3708515 2.3555265,0 c 0.32502205,0 0.5886609,0.2967592 0.5886609,0.6624091 0,0.3656501 -0.26363885,0.6624094 -0.5886609,0.6624094 l -2.3555265,0 c -0.3250222,0 -0.588661,-0.2967593 -0.588661,-0.6624094 0,-0.3656499 0.2636388,-0.6624091 0.588661,-0.6624091"
+     id="path258"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-0.73480606"
+     y="-6.9734073"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text260"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">Fragment is</text>
+  <text
+     x="-0.73480606"
+     y="-6.620121"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text262"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">inflated from</text>
+  <text
+     x="-0.73480606"
+     y="-6.2668366"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text264"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">layout</text>
+  <polyline
+     points="8.000,4.000 8.000,5.000 5.750,5.000 5.750,5.569 "
+     id="polyline266"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="5.5,5.444 5.75,5.569 6,5.444 5.75,5.944 "
+     id="polygon268"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="5.5,5.444 5.75,5.569 6,5.444 5.75,5.944 "
+     id="polygon270"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polyline
+     points="-1.000,0.024 -1.000,5.000 1.250,5.000 1.250,5.569 "
+     id="polyline272"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="1,5.444 1.25,5.569 1.5,5.444 1.25,5.944 "
+     id="polygon274"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="1,5.444 1.25,5.569 1.5,5.444 1.25,5.944 "
+     id="polygon276"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-0.73480606"
+     y1="-6.0460334"
+     x2="-0.73480606"
+     y2="-5.3531532"
+     id="line278"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="7.75,1.444 8,1.569 8.25,1.444 8,1.944 "
+     id="polygon280"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="7.75,1.444 8,1.569 8.25,1.444 8,1.944 "
+     id="polygon282"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-1.7284185"
+     y1="-2.5008206"
+     x2="-1.7284185"
+     y2="-1.8203055"
+     id="line284"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="5.5,9.444 5.75,9.569 6,9.444 5.75,9.944 "
+     id="polygon286"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="5.5,9.444 5.75,9.569 6,9.444 5.75,9.944 "
+     id="polygon288"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-3.7156432"
+     y1="-0.74676132"
+     x2="-3.7156432"
+     y2="-0.053881429"
+     id="line290"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="1,13.444 1.25,13.569 1.5,13.444 1.25,13.944 "
+     id="polygon292"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="1,13.444 1.25,13.569 1.5,13.444 1.25,13.944 "
+     id="polygon294"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-3.7156432"
+     y1="1.0307034"
+     x2="-3.7156432"
+     y2="1.7125427"
+     id="line296"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="1,17.444 1.25,17.569 1.5,17.444 1.25,17.944 "
+     id="polygon298"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="1,17.444 1.25,17.569 1.5,17.444 1.25,17.944 "
+     id="polygon300"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-1.7284185"
+     y1="2.7860868"
+     x2="-1.7284185"
+     y2="5.2453909"
+     id="line302"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="5.5,25.444 5.75,25.569 6,25.444 5.75,25.944 "
+     id="polygon304"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="5.5,25.444 5.75,25.569 6,25.444 5.75,25.944 "
+     id="polygon306"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-2.7220314"
+     y1="6.3379235"
+     x2="-2.7220314"
+     y2="7.0007753"
+     id="line308"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="3.25,29.419 3.5,29.544 3.75,29.419 3.5,29.919 "
+     id="polygon310"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="3.25,29.419 3.5,29.544 3.75,29.419 3.5,29.919 "
+     id="polygon312"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-1.7284185"
+     y1="8.0853605"
+     x2="-1.7284185"
+     y2="10.544663"
+     id="line314"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="5.5,37.444 5.75,37.569 6,37.444 5.75,37.944 "
+     id="polygon316"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="5.5,37.444 5.75,37.569 6,37.444 5.75,37.944 "
+     id="polygon318"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-2.7220314"
+     y1="11.627923"
+     x2="-2.7220314"
+     y2="15.83422"
+     id="line320"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="3.25,49.422 3.5,49.547 3.75,49.422 3.5,49.922 "
+     id="polygon322"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="3.25,49.422 3.5,49.547 3.75,49.422 3.5,49.922 "
+     id="polygon324"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-2.7220314"
+     y1="16.928078"
+     x2="-2.7220314"
+     y2="23.782248"
+     id="line326"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="3.25,67.42 3.5,67.545 3.75,67.42 3.5,67.92 "
+     id="polygon328"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="3.25,67.42 3.5,67.545 3.75,67.42 3.5,67.92 "
+     id="polygon330"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-1.6917644"
+     y1="24.925125"
+     x2="-1.7253273"
+     y2="26.884089"
+     id="line332"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="5.51,74.44 5.757,74.569 6.009,74.448 5.751,74.944 "
+     id="polygon334"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="5.51,74.44 5.757,74.569 6.009,74.448 5.751,74.944 "
+     id="polygon336"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-3.7156432"
+     y1="27.957632"
+     x2="-3.7156432"
+     y2="29.092119"
+     id="line338"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="1,79.444 1.25,79.569 1.5,79.444 1.25,79.944 "
+     id="polygon340"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="1,79.444 1.25,79.569 1.5,79.444 1.25,79.944 "
+     id="polygon342"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-3.7156432"
+     y1="31.932085"
+     x2="-3.7156432"
+     y2="32.624966"
+     id="line344"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="1,87.444 1.25,87.569 1.5,87.444 1.25,87.944 "
+     id="polygon346"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="1,87.444 1.25,87.569 1.5,87.444 1.25,87.944 "
+     id="polygon348"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-2.7220314"
+     y1="35.475533"
+     x2="-2.7220314"
+     y2="36.147217"
+     id="line350"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="3.25,95.42 3.5,95.545 3.75,95.42 3.5,95.92 "
+     id="polygon352"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="3.25,95.42 3.5,95.545 3.75,95.42 3.5,95.92 "
+     id="polygon354"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-2.7220314"
+     y1="37.241959"
+     x2="-2.7215896"
+     y2="37.913639"
+     id="line356"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="3.251,99.42 3.501,99.545 3.751,99.42 3.501,99.92 "
+     id="polygon358"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="3.251,99.42 3.501,99.545 3.751,99.42 3.501,99.92 "
+     id="polygon360"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <text
+     x="-2.9428341"
+     y="-8.191206"
+     font-size="1.06"
+     font-style="normal"
+     font-weight="400"
+     id="text362"
+     style="font-style:normal;font-weight:400;font-size:0.46810237px;font-family:sans;text-anchor:middle;fill:#000000">Fragment Lifecycle</text>
+  <text
+     x="4.6086655"
+     y="-8.191206"
+     font-size="1.06"
+     font-style="normal"
+     font-weight="400"
+     id="text364"
+     style="font-style:normal;font-weight:400;font-size:0.46810237px;font-family:sans;text-anchor:middle;fill:#000000">Activity Lifecycle</text>
+  <rect
+     x="7.2141004"
+     y="9.8517847"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect366"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="7.2141004"
+     y="9.8517847"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect368"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803;stroke-dasharray:0.0441606, 0.0441606" />
+  <text
+     x="8.980525"
+     y="10.379503"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text370"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onActivityResult()</text>
+  <polyline
+     points="30.000,38.000 30.000,39.000 20.000,39.000 20.000,43.569 "
+     id="polyline372"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="19.75,43.444 20,43.569 20.25,43.444 20,43.944 "
+     id="polygon374"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="19.75,43.444 20,43.569 20.25,43.444 20,43.944 "
+     id="polygon376"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <rect
+     x="2.7980416"
+     y="-2.5131855"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect378"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="2.7980416"
+     y="-2.5131855"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect380"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803" />
+  <text
+     x="4.564465"
+     y="-1.9854662"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text382"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onAttachFragment()</text>
+  <rect
+     x="2.7980416"
+     y="2.7860868"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect384"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="2.7980416"
+     y="2.7860868"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect386"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803" />
+  <text
+     x="4.564465"
+     y="3.3138058"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text388"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onContentChanged()</text>
+  <line
+     x1="4.564465"
+     y1="-4.2457066"
+     x2="4.564465"
+     y2="-2.7141159"
+     id="line390"
+     style="stroke:#000000;stroke-width:0.01759797" />
+  <polygon
+     points="19.75,7.42 20,7.545 20.25,7.42 20,7.92 "
+     id="polygon392"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="19.75,7.42 20,7.545 20.25,7.42 20,7.92 "
+     id="polygon394"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="4.564465"
+     y1="-1.6202583"
+     x2="4.564465"
+     y2="2.5860395"
+     id="line396"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="19.75,19.422 20,19.547 20.25,19.422 20,19.922 "
+     id="polygon398"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="19.75,19.422 20,19.547 20.25,19.422 20,19.922 "
+     id="polygon400"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <rect
+     x="7.6557064"
+     y="21.775146"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect402"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="7.6557064"
+     y="21.775146"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect404"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803" />
+  <text
+     x="9.4221306"
+     y="22.302868"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text406"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onUserInteraction()</text>
+  <rect
+     x="7.6557064"
+     y="24.424784"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect408"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="7.6557064"
+     y="24.424784"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect410"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803;stroke-dasharray:0.0441606, 0.0441606" />
+  <text
+     x="9.4221306"
+     y="24.952505"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text412"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onUserLeaveHint()</text>
+  <text
+     x="1.2321066"
+     y="-10.126869"
+     font-size="1.41"
+     font-style="normal"
+     font-weight="700"
+     id="text414"
+     style="font-style:normal;font-weight:700;font-size:0.62266445px;font-family:sans;text-anchor:middle;fill:#000000">The Complete Android Activity/Fragment Lifecycle</text>
+  <rect
+     x="2.7980416"
+     y="13.384632"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect416"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="2.7980416"
+     y="13.384632"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect418"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803" />
+  <text
+     x="4.564465"
+     y="13.912351"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text420"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onPostCreate()</text>
+  <polyline
+     points="22.000,34.000 22.000,35.000 30.000,35.000 30.000,35.569 "
+     id="polyline422"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.05;stroke-dasharray:0.1, 0.1"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="29.75,35.444 30,35.569 30.25,35.444 30,35.944 "
+     id="polygon424"
+     style="fill:#bfbfbf;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="29.75,35.444 30,35.569 30.25,35.444 30,35.944 "
+     id="polygon426"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <rect
+     x="2.7980416"
+     y="16.91748"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect428"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="2.7980416"
+     y="16.91748"
+     width="3.5328481"
+     height="0.88321203"
+     id="rect430"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803" />
+  <text
+     x="4.564465"
+     y="17.4452"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text432"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onPostResume()</text>
+  <line
+     x1="4.564465"
+     y1="14.277559"
+     x2="4.564465"
+     y2="14.960725"
+     id="line434"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="19.75,47.444 20,47.569 20.25,47.444 20,47.944 "
+     id="polygon436"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="19.75,47.444 20,47.569 20.25,47.444 20,47.944 "
+     id="polygon438"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polyline
+     points="22.000,70.133 22.000,70.400 26.000,70.400 26.000,66.800 31.000,66.800 31.000,68.569 "
+     id="polyline440"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.05;stroke-dasharray:0.1, 0.1"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="30.75,68.444 31,68.569 31.25,68.444 31,68.944 "
+     id="polygon442"
+     style="fill:#bfbfbf;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="30.75,68.444 31,68.569 31.25,68.444 31,68.944 "
+     id="polygon444"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polyline
+     points="24.000,83.000 36.000,83.000 36.000,31.000 33.431,31.000 "
+     id="polyline446"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="33.556,30.75 33.431,31 33.556,31.25 33.056,31 "
+     id="polygon448"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="33.556,30.75 33.431,31 33.556,31.25 33.056,31 "
+     id="polygon450"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <rect
+     x="-4.7092581"
+     y="29.28245"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect452"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="-4.7092581"
+     y="29.28245"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect454"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803;stroke-dasharray:0.0441606, 0.0441606" />
+  <text
+     x="-2.7220314"
+     y="29.810171"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text456"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onSaveInstanceState()</text>
+  <line
+     x1="-3.7156432"
+     y1="30.165663"
+     x2="-3.7156432"
+     y2="30.858543"
+     id="line458"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="1,83.444 1.25,83.569 1.5,83.444 1.25,83.944 "
+     id="polygon460"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="1,83.444 1.25,83.569 1.5,83.444 1.25,83.944 "
+     id="polygon462"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-1.7284185"
+     y1="-0.74676132"
+     x2="-1.7284185"
+     y2="-0.053881429"
+     id="line464"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="5.5,13.444 5.75,13.569 6,13.444 5.75,13.944 "
+     id="polygon466"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="5.5,13.444 5.75,13.569 6,13.444 5.75,13.944 "
+     id="polygon468"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-1.7284185"
+     y1="1.0307034"
+     x2="-1.7284185"
+     y2="1.7125427"
+     id="line470"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="5.5,17.444 5.75,17.569 6,17.444 5.75,17.944 "
+     id="polygon472"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="5.5,17.444 5.75,17.569 6,17.444 5.75,17.944 "
+     id="polygon474"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-3.7156432"
+     y1="-2.5008206"
+     x2="-3.7156432"
+     y2="-1.8203055"
+     id="line476"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="1,9.444 1.25,9.569 1.5,9.444 1.25,9.944 "
+     id="polygon478"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="1,9.444 1.25,9.569 1.5,9.444 1.25,9.944 "
+     id="polygon480"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <rect
+     x="-5.4515977"
+     y="4.2897563"
+     width="5.0179691"
+     height="0.68228126"
+     id="rect482"
+     style="fill:#ffffff;stroke:none" />
+  <text
+     x="-2.9428341"
+     y="4.5525107"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text484"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">Only called upon fragment creation</text>
+  <text
+     x="-2.9428341"
+     y="4.9057951"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text486"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">and reattachment, not restart</text>
+  <polyline
+     points="1.250,20.000 1.250,22.000 -3.000,22.000 -3.000,33.000 1.250,33.000 1.250,37.569 "
+     id="polyline488"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="1,37.444 1.25,37.569 1.5,37.444 1.25,37.944 "
+     id="polygon490"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="1,37.444 1.25,37.569 1.5,37.444 1.25,37.944 "
+     id="polygon492"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polyline
+     points="16.000,74.000 14.975,74.000 14.975,49.000 15.569,49.000 "
+     id="polyline494"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="15.444,49.25 15.569,49 15.444,48.75 15.944,49 "
+     id="polygon496"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="15.444,49.25 15.569,49 15.444,48.75 15.944,49 "
+     id="polygon498"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polyline
+     points="8.000,76.000 13.000,76.000 13.000,51.000 8.431,51.000 "
+     id="polyline500"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="8.556,50.75 8.431,51 8.556,51.25 8.056,51 "
+     id="polygon502"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="8.556,50.75 8.431,51 8.556,51.25 8.056,51 "
+     id="polygon504"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polyline
+     points="8.000,85.000 11.500,85.000 11.500,39.000 8.431,39.000 "
+     id="polyline506"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="8.556,38.75 8.431,39 8.556,39.25 8.056,39 "
+     id="polygon508"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="8.556,38.75 8.431,39 8.556,39.25 8.056,39 "
+     id="polygon510"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polyline
+     points="-1.000,85.000 -4.000,85.000 -4.000,15.518 -1.431,15.518 "
+     id="polyline512"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="-1.556,15.768 -1.431,15.518 -1.556,15.268 -1.056,15.518 "
+     id="polygon514"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="-1.556,15.768 -1.431,15.518 -1.556,15.268 -1.056,15.518 "
+     id="polygon516"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <rect
+     x="-7.7806258"
+     y="14.8883"
+     width="3.4931035"
+     height="0.68228126"
+     id="rect518"
+     style="fill:#ffffff;stroke:none" />
+  <text
+     x="-6.0340753"
+     y="15.151056"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text520"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">Apps with higher priority</text>
+  <text
+     x="-6.0340753"
+     y="15.50434"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text522"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">need memory</text>
+  <path
+     d="m -7.211845,13.384632 2.3555274,0 c 0.325022,0 0.588661,0.19784 0.588661,0.441605 0,0.243767 -0.263639,0.441607 -0.588661,0.441607 l -2.3555274,0 c -0.3250224,0 -0.5886609,-0.19784 -0.5886609,-0.441607 0,-0.243765 0.2636385,-0.441605 0.5886609,-0.441605"
+     id="path524"
+     inkscape:connector-curvature="0"
+     style="fill:#ff9393;stroke:none" />
+  <path
+     d="m -7.211845,13.384632 2.3555274,0 c 0.325022,0 0.588661,0.19784 0.588661,0.441605 0,0.243767 -0.263639,0.441607 -0.588661,0.441607 l -2.3555274,0 c -0.3250224,0 -0.5886609,-0.19784 -0.5886609,-0.441607 0,-0.243765 0.2636385,-0.441605 0.5886609,-0.441605"
+     id="path526"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-6.0340753"
+     y="13.737917"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text528"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">App process</text>
+  <text
+     x="-6.0340753"
+     y="14.091201"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text530"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">killed</text>
+  <rect
+     x="-7.0921645"
+     y="12.238664"
+     width="2.1161759"
+     height="0.68228126"
+     id="rect532"
+     style="fill:#ffffff;stroke:none" />
+  <text
+     x="-6.0340753"
+     y="12.50142"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text534"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">User navigates</text>
+  <text
+     x="-6.0340753"
+     y="12.854704"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text536"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">to the activity</text>
+  <rect
+     x="12.614341"
+     y="-7.6106267"
+     width="2.5613151"
+     height="3.5328481"
+     id="rect538"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="12.614385"
+     y="-7.753293"
+     width="2.5612268"
+     height="3.6754704"
+     id="rect540"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.00450423" />
+  <rect
+     x="12.790984"
+     y="-6.9923806"
+     width="2.20803"
+     height="0.83905143"
+     id="rect542"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="12.790984"
+     y="-6.9923806"
+     width="2.20803"
+     height="0.83905143"
+     id="rect544"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="13.895"
+     y="-6.4867406"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text546"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">Common</text>
+  <rect
+     x="12.790984"
+     y="-6.0208454"
+     width="2.20803"
+     height="0.83905143"
+     id="rect548"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="12.790984"
+     y="-6.0208454"
+     width="2.20803"
+     height="0.83905143"
+     id="rect550"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803" />
+  <text
+     x="13.895"
+     y="-5.5152082"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text552"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">Uncommon</text>
+  <rect
+     x="12.790984"
+     y="-5.0493135"
+     width="2.20803"
+     height="0.83905143"
+     id="rect554"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="12.790984"
+     y="-5.0493135"
+     width="2.20803"
+     height="0.83905143"
+     id="rect556"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803;stroke-dasharray:0.0441606, 0.0441606" />
+  <text
+     x="13.895"
+     y="-4.5436745"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text558"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">Conditional</text>
+  <text
+     x="13.895"
+     y="-7.3213749"
+     font-size="0.88"
+     font-style="normal"
+     font-weight="400"
+     id="text560"
+     style="font-style:normal;font-weight:400;font-size:0.38861328px;font-family:sans;text-anchor:middle;fill:#000000">Key</text>
+  <rect
+     x="7.9224372"
+     y="30.344513"
+     width="2.1166177"
+     height="0.68228126"
+     id="rect562"
+     style="fill:#ffffff;stroke:none" />
+  <text
+     x="8.980525"
+     y="30.607269"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text564"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">User navigates</text>
+  <text
+     x="8.980525"
+     y="30.960554"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text566"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">to the activity</text>
+  <rect
+     x="0.93048966"
+     y="24.162029"
+     width="1.9686798"
+     height="0.68228126"
+     id="rect568"
+     style="fill:#ffffff;stroke:none" />
+  <text
+     x="1.9148293"
+     y="24.424784"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text570"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">User returns</text>
+  <text
+     x="1.9148293"
+     y="24.77807"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text572"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">to the activity</text>
+  <line
+     x1="-1.7284185"
+     y1="27.957632"
+     x2="-1.7284185"
+     y2="29.092119"
+     id="line574"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="5.5,79.444 5.75,79.569 6,79.444 5.75,79.944 "
+     id="polygon576"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="5.5,79.444 5.75,79.569 6,79.444 5.75,79.944 "
+     id="polygon578"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-1.7284185"
+     y1="31.932085"
+     x2="-1.7284185"
+     y2="32.624966"
+     id="line580"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="5.5,87.444 5.75,87.569 6,87.444 5.75,87.944 "
+     id="polygon582"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="5.5,87.444 5.75,87.569 6,87.444 5.75,87.944 "
+     id="polygon584"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-1.7284185"
+     y1="30.165663"
+     x2="-1.7284185"
+     y2="30.858543"
+     id="line586"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="5.5,83.444 5.75,83.569 6,83.444 5.75,83.944 "
+     id="polygon588"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="5.5,83.444 5.75,83.569 6,83.444 5.75,83.944 "
+     id="polygon590"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="-3.7522981"
+     y1="24.925125"
+     x2="-3.7187352"
+     y2="26.884089"
+     id="line592"
+     style="stroke:#000000;stroke-width:0.0220803" />
+  <polygon
+     points="0.991,74.448 1.243,74.569 1.49,74.44 1.249,74.944 "
+     id="polygon594"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="0.991,74.448 1.243,74.569 1.49,74.44 1.249,74.944 "
+     id="polygon596"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <rect
+     x="-2.4636936"
+     y="25.266045"
+     width="2.574563"
+     height="1.3888509"
+     id="rect598"
+     style="fill:#ffffff;stroke:none" />
+  <text
+     x="-1.1764113"
+     y="25.528799"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text600"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">User navigates</text>
+  <text
+     x="-1.1764113"
+     y="25.882086"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text602"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">backward or</text>
+  <text
+     x="-1.1764113"
+     y="26.235369"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text604"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">fragment is</text>
+  <text
+     x="-1.1764113"
+     y="26.588655"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text606"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">removed/replaced</text>
+  <rect
+     x="-5.5553746"
+     y="25.266045"
+     width="2.5758879"
+     height="1.3888509"
+     id="rect608"
+     style="fill:#ffffff;stroke:none" />
+  <text
+     x="-4.2676506"
+     y="25.528799"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text610"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">Fragment is</text>
+  <text
+     x="-4.2676506"
+     y="25.882086"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text612"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">added to the back</text>
+  <text
+     x="-4.2676506"
+     y="26.235369"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text614"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">stack, then</text>
+  <text
+     x="-4.2676506"
+     y="26.588655"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text616"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">removed/replaced</text>
+  <polyline
+     points="1.250,90.000 1.250,91.000 -9.000,91.000 -9.000,14.506 -1.431,14.506 "
+     id="polyline618"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="-1.556,14.756 -1.431,14.506 -1.556,14.256 -1.056,14.506 "
+     id="polygon620"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="-1.556,14.756 -1.431,14.506 -1.556,14.256 -1.056,14.506 "
+     id="polygon622"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polyline
+     points="5.750,90.000 5.750,91.000 3.500,91.000 3.500,91.569 "
+     id="polyline624"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="3.25,91.444 3.5,91.569 3.75,91.444 3.5,91.944 "
+     id="polygon626"
+     style="fill:#000000;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="3.25,91.444 3.5,91.569 3.75,91.444 3.5,91.944 "
+     id="polygon628"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <rect
+     x="-9.3328791"
+     y="32.55254"
+     width="2.1815336"
+     height="1.3888509"
+     id="rect630"
+     style="fill:#ffffff;stroke:none" />
+  <text
+     x="-8.2421103"
+     y="32.8153"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text632"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">The fragment</text>
+  <text
+     x="-8.2421103"
+     y="33.168583"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text634"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">returns to the</text>
+  <text
+     x="-8.2421103"
+     y="33.52187"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text636"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">layout from the</text>
+  <text
+     x="-8.2421103"
+     y="33.875153"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text638"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">back stack</text>
+  <text
+     x="12.03382"
+     y="-3.1945679"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text640"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:start;fill:#000000">Uncommon lifecycle</text>
+  <text
+     x="12.03382"
+     y="-2.8412836"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text642"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:start;fill:#000000">events are ones that</text>
+  <text
+     x="12.03382"
+     y="-2.4879975"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text644"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:start;fill:#000000">either the documentation</text>
+  <text
+     x="12.03382"
+     y="-2.1347132"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text646"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:start;fill:#000000">states are not intended for</text>
+  <text
+     x="12.03382"
+     y="-1.7814282"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text648"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:start;fill:#000000">application use or which</text>
+  <text
+     x="12.03382"
+     y="-1.428144"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text650"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:start;fill:#000000">aren't often encountered</text>
+  <text
+     x="12.03382"
+     y="-1.0748595"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text652"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:start;fill:#000000">in many apps</text>
+  <rect
+     x="7.606688"
+     y="23.589268"
+     width="3.2775998"
+     height="0.48223379"
+     id="rect654"
+     style="fill:#ffffff;stroke:none" />
+  <text
+     x="9.2454882"
+     y="23.77474"
+     font-size="0.56"
+     font-style="normal"
+     font-weight="400"
+     id="text656"
+     style="font-style:normal;font-weight:400;font-size:0.22080301px;font-family:sans;text-anchor:middle;fill:#000000">Only called when</text>
+  <text
+     x="9.2454882"
+     y="24.02425"
+     font-size="0.56"
+     font-style="normal"
+     font-weight="400"
+     id="text658"
+     style="font-style:normal;font-weight:400;font-size:0.22080301px;font-family:sans;text-anchor:middle;fill:#000000">onUserInteraction() is called first</text>
+  <text
+     x="8.0973129"
+     y="20.73851"
+     font-size="0.56"
+     font-style="normal"
+     font-weight="400"
+     id="text662"
+     style="font-style:normal;font-weight:400;font-size:0.22080301px;font-family:sans;text-anchor:middle;fill:#000000">Called when the user</text>
+  <text
+     x="8.0973129"
+     y="20.987576"
+     font-size="0.56"
+     font-style="normal"
+     font-weight="400"
+     id="text664"
+     style="font-style:normal;font-weight:400;font-size:0.22080301px;font-family:sans;text-anchor:middle;fill:#000000">interacts with the</text>
+  <text
+     x="8.0973129"
+     y="21.236641"
+     font-size="0.56"
+     font-style="normal"
+     font-weight="400"
+     id="text666"
+     style="font-style:normal;font-weight:400;font-size:0.22080301px;font-family:sans;text-anchor:middle;fill:#000000">activity.</text>
+  <rect
+     x="4.7194686"
+     y="9.2247038"
+     width="2.3391871"
+     height="0.48223379"
+     id="rect668"
+     style="fill:#ffffff;stroke:none" />
+  <text
+     x="5.8892822"
+     y="9.4101782"
+     font-size="0.56"
+     font-style="normal"
+     font-weight="400"
+     id="text670"
+     style="font-style:normal;font-weight:400;font-size:0.22080301px;font-family:sans;text-anchor:middle;fill:#000000">Called when an activity</text>
+  <text
+     x="5.8892822"
+     y="9.6592436"
+     font-size="0.56"
+     font-style="normal"
+     font-weight="400"
+     id="text672"
+     style="font-style:normal;font-weight:400;font-size:0.22080301px;font-family:sans;text-anchor:middle;fill:#000000">you launched exits</text>
+  <text
+     x="13.259955"
+     y="1.8677709"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text674"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#b3b3b3">v0.9.0 2014-04-22</text>
+  <text
+     x="13.019575"
+     y="2.285471"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#b3b3b3"
+     id="text3792">Steve Pomeroy</text>
+  <text
+     x="13.838271"
+     y="2.7901919"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#b3b3b3"
+     id="text3790">&lt;stevep@thelevelup.com&gt;</text>
+  <text
+     x="12.879848"
+     y="3.1608818"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text676"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#b3b3b3">CC-BY-SA 4.0</text>
+  <text
+     x="13.055025"
+     y="3.6621039"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text678"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#b3b3b3">github.com/xxv</text>
+  <text
+     x="13.179097"
+     y="4.0014853"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#b3b3b3"
+     id="text3802">/android-lifecycle</text>
+  <polyline
+     points="8.000,89.000 9.000,89.000 9.000,97.000 8.487,97.000 "
+     id="polyline680"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1;stroke-dasharray:0.1, 0.1"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="8.612,96.75 8.487,97 8.612,97.25 8.112,97 "
+     id="polygon682"
+     style="fill:#bfbfbf;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="8.612,96.75 8.487,97 8.612,97.25 8.112,97 "
+     id="polygon684"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <rect
+     x="-0.41861665"
+     y="34.848896"
+     width="2.3700993"
+     height="0.32899648"
+     id="rect686"
+     style="fill:#ffffff;stroke:none" />
+  <text
+     x="0.76665324"
+     y="35.111645"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text688"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">☑ retainInstance</text>
+  <polyline
+     points="-1.000,97.000 -12.000,97.000 -12.000,7.014 -1.487,7.014 "
+     id="polyline690"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1;stroke-dasharray:0.1, 0.1"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="-1.612,7.264 -1.487,7.014 -1.612,6.764 -1.112,7.014 "
+     id="polygon692"
+     style="fill:#bfbfbf;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="-1.612,7.264 -1.487,7.014 -1.612,6.764 -1.112,7.014 "
+     id="polygon694"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <rect
+     x="-10.654607"
+     y="35.202175"
+     width="2.1749096"
+     height="0.68228126"
+     id="rect696"
+     style="fill:#ffffff;stroke:none" />
+  <text
+     x="-9.5669298"
+     y="35.464935"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text698"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">the fragment is</text>
+  <text
+     x="-9.5669298"
+     y="35.818222"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text700"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">reattached</text>
+  <text
+     x="12.03382"
+     y="-0.54493207"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text702"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:start;fill:#000000">Attached: fragment is</text>
+  <text
+     x="12.03382"
+     y="-0.19164762"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text704"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:start;fill:#000000">associated with an activity</text>
+  <text
+     x="12.03382"
+     y="0.41403079"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text706"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:start;fill:#000000">Added: fragment is in the</text>
+  <text
+     x="12.03382"
+     y="0.76731521"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text708"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:start;fill:#000000">view hiearchy</text>
+  <polyline
+     points="8.000,6.507 9.400,6.507 9.400,15.012 8.487,15.012 "
+     id="polyline710"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1;stroke-dasharray:0.1, 0.1"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="8.612,14.762 8.487,15.012 8.612,15.262 8.112,15.012 "
+     id="polygon712"
+     style="fill:#bfbfbf;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="8.612,14.762 8.487,15.012 8.612,15.262 8.112,15.012 "
+     id="polygon714"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <rect
+     x="-0.2419744"
+     y="-1.4511236"
+     width="2.3700993"
+     height="0.32899648"
+     id="rect716"
+     style="fill:#ffffff;stroke:none" />
+  <text
+     x="0.94329619"
+     y="-1.1883674"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text718"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">☑ retainInstance</text>
+  <polygon
+     points="29,47.158 29,44 33.965,44 34.565,44.6 34.565,47.158 "
+     id="polygon720"
+     style="fill:#ffffe1;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="29,47.158 29,44 33.965,44 34.565,44.6 34.565,47.158 "
+     id="polygon722"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polyline
+     points="33.965,44.000 33.965,44.600 34.565,44.600 "
+     id="polyline724"
+     style="fill:none;stroke:#000000;stroke-width:0.025"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <text
+     x="8.6824417"
+     y="13.84611"
+     font-size="0.56"
+     font-style="normal"
+     font-weight="400"
+     id="text726"
+     style="font-style:normal;font-weight:400;font-size:0.22080301px;font-family:sans;text-anchor:start;fill:#000000">Things get a little</text>
+  <text
+     x="8.6824417"
+     y="14.095177"
+     font-size="0.56"
+     font-style="normal"
+     font-weight="400"
+     id="text728"
+     style="font-style:normal;font-weight:400;font-size:0.22080301px;font-family:sans;text-anchor:start;fill:#000000">weird here if you're</text>
+  <text
+     x="8.6824417"
+     y="14.344684"
+     font-size="0.56"
+     font-style="normal"
+     font-weight="400"
+     id="text730"
+     style="font-style:normal;font-weight:400;font-size:0.22080301px;font-family:sans;text-anchor:start;fill:#000000">using the v4 compat</text>
+  <text
+     x="8.6824417"
+     y="14.593749"
+     font-size="0.56"
+     font-style="normal"
+     font-weight="400"
+     id="text732"
+     style="font-style:normal;font-weight:400;font-size:0.22080301px;font-family:sans;text-anchor:start;fill:#000000">library.</text>
+  <line
+     x1="8.5172806"
+     y1="14.444929"
+     x2="6.3048334"
+     y2="15.087464"
+     id="line734"
+     style="stroke:#a1a18e;stroke-width:0.0220803" />
+  <polygon
+     points="23.991,47.581 23.941,47.856 24.13,48.061 23.58,47.96 "
+     id="polygon736"
+     style="fill:#a1a18e;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="23.991,47.581 23.941,47.856 24.13,48.061 23.58,47.96 "
+     id="polygon738"
+     style="fill:none;stroke:#a1a18e;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="8.625473"
+     y1="14.801305"
+     x2="5.4432602"
+     y2="16.805756"
+     id="line740"
+     style="stroke:#a1a18e;stroke-width:0.0220803" />
+  <polygon
+     points="21.962,51.469 21.99,51.747 22.229,51.892 21.673,51.947 "
+     id="polygon742"
+     style="fill:#a1a18e;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="21.962,51.469 21.99,51.747 22.229,51.892 21.673,51.947 "
+     id="polygon744"
+     style="fill:none;stroke:#a1a18e;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <rect
+     x="-10.580416"
+     y="34.407288"
+     width="2.0269718"
+     height="0.68228126"
+     id="rect746"
+     style="fill:#ffffff;stroke:none" />
+  <text
+     x="-9.5669298"
+     y="34.67004"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text748"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">☑</text>
+  <text
+     x="-9.5669298"
+     y="35.023327"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text750"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">retainInstance</text>
+  <rect
+     x="2.5772383"
+     y="28.48756"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect752"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="2.5772383"
+     y="28.48756"
+     width="3.9744539"
+     height="0.88321203"
+     id="rect754"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803;stroke-dasharray:0.0441606, 0.0441606" />
+  <text
+     x="4.564465"
+     y="29.015278"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text756"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onSaveInstanceState()</text>
+  <polygon
+     points="8.9,81.558 8.9,78.4 12.982,78.4 13.582,79 13.582,81.558 "
+     id="polygon758"
+     style="fill:#ffffe1;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="8.9,81.558 8.9,78.4 12.982,78.4 13.582,79 13.582,81.558 "
+     id="polygon760"
+     style="fill:none;stroke:#000000;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polyline
+     points="12.982,78.400 12.982,79.000 13.582,79.000 "
+     id="polyline762"
+     style="fill:none;stroke:#000000;stroke-width:0.025"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <text
+     x="-0.19383849"
+     y="29.037359"
+     font-size="0.56"
+     font-style="normal"
+     font-weight="400"
+     id="text764"
+     style="font-style:normal;font-weight:400;font-size:0.22080301px;font-family:sans;text-anchor:start;fill:#000000">This method</text>
+  <text
+     x="-0.19383849"
+     y="29.286427"
+     font-size="0.56"
+     font-style="normal"
+     font-weight="400"
+     id="text766"
+     style="font-style:normal;font-weight:400;font-size:0.22080301px;font-family:sans;text-anchor:start;fill:#000000">may be called at</text>
+  <text
+     x="-0.19383849"
+     y="29.535933"
+     font-size="0.56"
+     font-style="normal"
+     font-weight="400"
+     id="text768"
+     style="font-style:normal;font-weight:400;font-size:0.22080301px;font-family:sans;text-anchor:start;fill:#000000">any time before</text>
+  <text
+     x="-0.19383849"
+     y="29.784998"
+     font-size="0.56"
+     font-style="normal"
+     font-weight="400"
+     id="text770"
+     style="font-style:normal;font-weight:400;font-size:0.22080301px;font-family:sans;text-anchor:start;fill:#000000">onDestroy()</text>
+  <line
+     x1="-0.35944068"
+     y1="29.412283"
+     x2="-0.53520107"
+     y2="29.435688"
+     id="line772"
+     style="stroke:#a1a18e;stroke-width:0.0220803" />
+  <polygon
+     points="8.543,80.083 8.452,80.347 8.609,80.578 8.08,80.396 "
+     id="polygon774"
+     style="fill:#a1a18e;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="8.543,80.083 8.452,80.347 8.609,80.578 8.08,80.396 "
+     id="polygon776"
+     style="fill:none;stroke:#a1a18e;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <line
+     x1="1.7523183"
+     y1="29.179115"
+     x2="2.3763072"
+     y2="29.123915"
+     id="line778"
+     style="stroke:#a1a18e;stroke-width:0.0220803" />
+  <polygon
+     points="14.943,79.901 15.045,79.641 14.899,79.403 15.419,79.607 "
+     id="polygon780"
+     style="fill:#a1a18e;stroke:none"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <polygon
+     points="14.943,79.901 15.045,79.641 14.899,79.403 15.419,79.607 "
+     id="polygon782"
+     style="fill:none;stroke:#a1a18e;stroke-width:0.05"
+     transform="matrix(0.44160601,0,0,0.44160601,-4.2676566,-6.046033)" />
+  <rect
+     x="2.703979"
+     y="18.242298"
+     width="3.720531"
+     height="0.88321203"
+     id="rect784"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="2.703979"
+     y="18.242298"
+     width="3.720531"
+     height="0.88321203"
+     id="rect786"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803" />
+  <text
+     x="4.564465"
+     y="18.77002"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text788"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onAttachedToWindow()</text>
+  <rect
+     x="2.6390631"
+     y="19.567116"
+     width="3.8432972"
+     height="0.88321203"
+     id="rect790"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="2.6390631"
+     y="19.567116"
+     width="3.8432972"
+     height="0.88321203"
+     id="rect792"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="4.5604901"
+     y="20.094837"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text794"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onCreateOptionsMenu()</text>
+  <rect
+     x="2.5339606"
+     y="11.618208"
+     width="4.0605674"
+     height="0.88321203"
+     id="rect796"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="2.5339606"
+     y="11.618208"
+     width="4.0605674"
+     height="0.88321203"
+     id="rect798"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.0220803;stroke-dasharray:0.0441606, 0.0441606" />
+  <text
+     x="4.564465"
+     y="12.145926"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text800"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onRestoreInstanceState()</text>
+  <rect
+     x="2.4447563"
+     y="21.33354"
+     width="4.2208705"
+     height="0.88321203"
+     id="rect802"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="2.4447563"
+     y="21.33354"
+     width="4.2208705"
+     height="0.88321203"
+     id="rect804"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="4.5551915"
+     y="21.861261"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text806"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onPrepareOptionsMenu()</text>
+  <rect
+     x="-4.6474309"
+     y="20.450329"
+     width="3.8432972"
+     height="0.88321203"
+     id="rect808"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="-4.6474309"
+     y="20.450329"
+     width="3.8432972"
+     height="0.88321203"
+     id="rect810"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-2.7260063"
+     y="20.978048"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text812"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onCreateOptionsMenu()</text>
+  <rect
+     x="-4.8417397"
+     y="22.216755"
+     width="4.2208705"
+     height="0.88321203"
+     id="rect814"
+     style="fill:#f7f7f7;stroke:none" />
+  <rect
+     x="-4.8417397"
+     y="22.216755"
+     width="4.2208705"
+     height="0.88321203"
+     id="rect816"
+     style="fill:none;stroke:#000000;stroke-width:0.0220803" />
+  <text
+     x="-2.7313049"
+     y="22.744474"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text818"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">onPrepareOptionsMenu()</text>
+  <rect
+     x="-4.5820765"
+     y="19.569326"
+     width="3.6322098"
+     height="0.68228126"
+     id="rect820"
+     style="fill:#ffffff;stroke:none" />
+  <text
+     x="-2.7661915"
+     y="19.832081"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text822"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">Only called if</text>
+  <text
+     x="-2.7661915"
+     y="20.185368"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text824"
+     style="font-style:normal;font-weight:400;font-size:0.2649636px;font-family:sans;text-anchor:middle;fill:#000000">setHasOptionsMenu(true)</text>
+</svg>
